@@ -1,2 +1,3 @@
 # first-repo
-VM_ubuntu edit
+VM_ubuntu https_edit
+VM_ubuntu ssh_edit
