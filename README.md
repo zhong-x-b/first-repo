@@ -11,4 +11,4 @@ VM_ubuntu hppts_edit_2 last ssh
 # 合并并增加新内容
 name:zxb
 
-# >>>>>>> refs/remotes/origin/master
+# >>>>>>> refs/remotes/origin/master 结束符
