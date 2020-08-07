@@ -12,3 +12,4 @@ VM_ubuntu hppts_edit_2 last ssh
 name:zxb
 
 # >>>>>>> refs/remotes/origin/master 结束符
+win_xshell访问电脑虚拟机ubuntu，操作远程网址项目。
